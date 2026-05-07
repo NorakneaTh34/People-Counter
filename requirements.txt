@@ -1,0 +1,12 @@
+# ─── Core inference ───────────────────────────────────────────────────────────
+ultralytics>=8.2.0          # YOLOv8 + ByteTrack tracker
+torch>=2.1.0                # PyTorch CPU build (GPU users: see README)
+torchvision>=0.16.0
+
+# ─── Vision / display ─────────────────────────────────────────────────────────
+opencv-python>=4.9.0.80     # video capture, drawing, colour conversion
+Pillow>=10.2.0              # PIL → tkinter ImageTk bridge
+numpy>=1.26.0
+
+# ─── Screen capture source ────────────────────────────────────────────────────
+mss>=9.0.1                  # cross-platform screen grab
