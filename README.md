@@ -82,7 +82,7 @@ Option A — Download ZIP:
 
 Option B — Git clone (if you have Git):
 ```
-git clone https://github.com/yourname/people-counter.git
+git https://github.com/NorakneaTh34/People-Counter
 cd people-counter
 ```
 
