@@ -126,7 +126,7 @@ python3.11 --version
 **Step 2 — Get the repo**
 
 ```bash
-git clone https://github.com/yourname/people-counter.git
+git clone https://github.com/NorakneaTh34/People-Counter
 cd people-counter
 ```
 
@@ -166,7 +166,7 @@ python3.11 -c "import tkinter; print('tkinter OK')"
 **Step 2 — Get the repo**
 
 ```bash
-git clone https://github.com/yourname/people-counter.git
+git clone https://github.com/NorakneaTh34/People-Counter
 cd people-counter
 ```
 
